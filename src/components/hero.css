@@ -1,0 +1,16 @@
+.question-box{
+    border: solid black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.question{
+    margin-top: 24px;
+ 
+    font-size: larger;
+}
+.headline{
+    margin-top: 10px;
+    padding-bottom: 20px;
+    align-items: center;
+}
